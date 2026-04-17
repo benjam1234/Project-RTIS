@@ -1,7 +1,7 @@
 #include <time.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <stdlib.h>
+
 long long randommul(int max);
 int compare_doubles(const void *a, const void *b);
 
